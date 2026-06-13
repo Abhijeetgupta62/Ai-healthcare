@@ -1,0 +1,5 @@
+/* Extra overrides loaded by Flask static — keeps HTML lean */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #1e3a5f; border-radius: 4px; }
+::selection { background: rgba(0,180,216,.25); }
